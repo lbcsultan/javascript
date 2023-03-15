@@ -20,6 +20,11 @@ let rs = 0 // right score
 let lss = 0 // left set score
 let rss = 0 // right set score
 
+// 21점제
+// const finalScore = 21;
+// const serveChange = 5;
+
+// 11점제
 // const finalScore = 11;
 // const serveChange = 2;
 

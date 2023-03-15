@@ -7,7 +7,28 @@
   user-select: none;
 }
 
-.teamname {
+.lteam {
   font-size: 100px;
-  background-color: aquamarine;
+  background-color: blue;
+  color: white;
+}
+
+.rteam {
+  font-size: 100px;
+  background-color: red;
+  color: white;
+}
+
+.lSetScore {
+  background-color: rgb(29, 102, 237);
+  color: white;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.rSetScore {
+  background-color: rgb(207, 103, 146);
+  color: white;
+  font-size: 100px;
+  font-weight: bold;
 }
